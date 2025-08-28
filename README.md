@@ -1,5 +1,5 @@
 # Porsche Elite Website
-[![GitHub stars](https://img.shields.io/github/stars/devanandacr/porsche-elite-website)](https://github.com/devanandacr/porsche-elite-website/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/devanandacr/Porsche-Elite-Webscape)](https://github.com/devanandacr/porsche-elite-website/stargazers)
 A full-stack web application for Porsche Elite enthusiasts, featuring a responsive frontend, robust backend, and integrated database.
 
 ## Features
