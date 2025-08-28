@@ -22,8 +22,8 @@ A full-stack web application for Porsche Elite enthusiasts, featuring a responsi
 4. Access at `http://localhost:3000` (adjust port as needed).
 
 ## Documentation
-- [UI/UX Report](Porsche-Elite-Webscape/docs/uid-report.pdf)
-- [DBMS Report](Porsche-Elite-Webscape/docs/dbms-report.pdf)
+- [UI/UX Report](Porsche-Elite-Webscape/docs/UID_Report.pdf)
+- [DBMS Report](Porsche-Elite-Webscape/docs/DBMA_Report.pdf)
 
 ## License
 [MIT License](LICENSE)
